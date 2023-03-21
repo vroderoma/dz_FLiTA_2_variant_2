@@ -1,0 +1,3 @@
+C:/Users/Acer/Desktop/dzFlitaNOWAY/cmake-build-debug/CMakeFiles/dzFlitaNOWAY.dir
+C:/Users/Acer/Desktop/dzFlitaNOWAY/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Acer/Desktop/dzFlitaNOWAY/cmake-build-debug/CMakeFiles/rebuild_cache.dir
